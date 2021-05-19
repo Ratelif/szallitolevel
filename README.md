@@ -1,1 +1,1 @@
-# szallitolevel készítő alkalmazás kód részlet 
+# szallitólevél készítő alkalmazás kód részlet 
